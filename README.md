@@ -1,3 +1,7 @@
+🦴 Powered by Random.dog API
+
+This project utilizes the Random.dog API to dynamically fetch and display random canine images and videos. Every time the page loads or the "Next" button is clicked, a new request is sent to the API to retrieve a unique URL from their vast collection of dog media.
+
 Below are the steps I used to initialize this repository and push the code to GitHub.
 
 ---
